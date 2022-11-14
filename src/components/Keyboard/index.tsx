@@ -14,7 +14,7 @@ const KeyboardStyles = styled(Box)`
 const KeyboardContourStyle = styled(Box)`
   // background: #000000;
   // background: #DCDFE7;
-  background: #C7A079;
+  // background: #C7A079;
   // border: 3px solid #F5AEE4;
   // border: 3px solid #F5AEE4;
   border: 3px solid #B78963;
