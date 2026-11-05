@@ -59,6 +59,8 @@ categories. These ideas inform Wind Field's approach to making an instrument
 that can connect music and science. The reference is to a creative approach,
 not to Teenage Engineering's branding, product identity, or proprietary design.
 
+![Q·Synth OP-1-inspired instrument interface](wind-field-experiment.png)
+
 
 ## Development roadmap
 
