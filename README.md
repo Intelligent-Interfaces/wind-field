@@ -1,6 +1,6 @@
-# Wind Field 🌪️ 🍂
+ # Wind Field 
 
-Wind Field is an experimental, science-facing browser instrument. Its current
+🌪️ 🍂 Wind Field is an experimental, science-facing browser instrument. Its current
 surface is an [OP-1 Field](https://teenage.engineering/products/op-1)-inspired synthesizer called Q·Synth; it is not a
 hardware emulator, a copy of the OP-1 firmware, or a validated scientific
 instrument.
